@@ -80,7 +80,7 @@ Passionate about Cybersecurity, AI, and C Programming
 
 ## 🌐 Connect
 
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- GitHub: [your-username](https://github.com/ARUNAGIRINATHAN-K)
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/arunagirinathan-k)
 
 > ⚠️ Tip: Replace placeholders with your actual GitHub and LinkedIn links.
