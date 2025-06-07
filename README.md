@@ -18,12 +18,12 @@ A C-based command-line tool that allows users to securely encrypt and decrypt fi
 
 ```
 SecureFileLocker/
-├── src/               # C source files
-├── include/           # Header files
+├── src/              
+├── include/           
 ├── data/
-│   └── encrypted_files/  # Encrypted file storage
+│   └── encrypted_files/ 
 ├── metadata/
-│   └── meta.dat       # Metadata of encrypted files
+│   └── meta.dat      
 ├── README.md
 └── Makefile (optional)
 ```
